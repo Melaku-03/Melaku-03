@@ -23,7 +23,6 @@
 ## 🚀 Goals
 - Creating innovative web solutions
 - Contributing to the tech community
-- Building a portfolio of impactful projects
 ## 😄 Fun fact: ...
 - 🚀 I'm passionate about leveraging technology to solve real-world problems and enjoy continuous learning.
 
